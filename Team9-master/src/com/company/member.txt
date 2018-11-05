@@ -1,0 +1,35 @@
+John Doe
+123456789
+111 Red St
+Portland
+OR
+97124
+SUSPENDED
+Jane Smith
+812564920
+1400 Cherry Dr
+Portland
+OR
+97124
+ACTIVE
+Michael Kelley
+727814533
+2700 Century Blvd
+Portland
+OR
+97124
+ACTIVE
+Bobby Johnson
+012444767
+6100 Cornell Rd
+Portland
+OR
+97124
+SUSPENDED
+Diane Henderson
+111424800
+7283 Nowhere Way
+Portland
+OR
+83734
+SUSPENDED

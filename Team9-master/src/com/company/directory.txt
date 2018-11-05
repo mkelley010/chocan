@@ -1,0 +1,20 @@
+711924
+Counselor
+64.99
+843201
+Dietitian
+59.99
+821654
+General Practice
+89.99
+664590
+Internist
+110.99
+432887
+Physician
+99.99
+105443
+Rehabilitation
+129.99
+
+
